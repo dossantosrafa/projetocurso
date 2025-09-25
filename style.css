@@ -58,6 +58,13 @@ body * {
   width: 112px;
 }
 
+#profile > img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 #profile p {
   font-weight: 500;
   line-height: 24px;
